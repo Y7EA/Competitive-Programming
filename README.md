@@ -2,7 +2,7 @@
 My own templates and implementation of important algorithms and data structures for competitive programming
 
 
-My profile: [Codeforces](https://codeforces.com/profile/ncduy0303), [AtCoder](https://atcoder.jp/users/ncduy0303)
+My profile: [Codeforces](https://codeforces.com/profile/yahya.ali)
 
 ## Contest templates
   - [My template C++](Contest%20Template/main.cpp)
@@ -69,3 +69,4 @@ My profile: [Codeforces](https://codeforces.com/profile/ncduy0303), [AtCoder](ht
   - [2-SAT](Others/2SAT.cpp)
   - [Offline Dynamic Connectivity](Others/Offline%20Dynamic%20Connectivity.cpp)
   - [Closest Points (Divide & Conquer)](/Others/Closest_3_Points(Divide&Conquer).cpp)
+
